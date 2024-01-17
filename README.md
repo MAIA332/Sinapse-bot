@@ -42,3 +42,8 @@ Foi utilizada a ferramenta Miro, para planejamento e detalhamento do projeto
 
 Este projeto representa um esforço conjunto para melhorar a experiência do cliente e impulsionar a captação de leads para nossos clientes PJ. Contribuições e sugestões são bem-vindas!
 
+## Estrutura de pastas:
+
+- ```fluxos```: pasta responsável por armazenar o versionamento dos fluxos
+
+- ```validacao```: pasta responsável por armazenas os scripts que são validados ao longo do desenvolvimento, para utilização dentro do builder do blip
